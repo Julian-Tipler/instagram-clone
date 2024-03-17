@@ -1,5 +1,8 @@
-Style/FrozenStringLiteralComment:
+Style/Documentation:
   Enabled: false
 
-Style/Documentation:
+Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
   Enabled: false
